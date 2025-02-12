@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-02-11 at 19 28 19_c9dea31a](https://github.com/user-attachments/assets/2f61110b-6b5b-4dc1-8110-49c14db4f2fc) # 📱 Flutter Fashion App UI  
+# 📱 Flutter Fashion App UI  
 
 A beautiful and responsive **Fashion App UI** built using **Flutter**. This UI design showcases a modern and stylish shopping experience with smooth animations and a user-friendly layout.
 
