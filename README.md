@@ -15,7 +15,8 @@ You can check out the **UI design** from the following link:
 ## 📸 Screenshots
 | Home Screen | Product Details | Cart Page |
 |-------------|----------------|-----------|
-| ![Home](![WhatsApp Image 2025-02-11 at 19 28 19_35c38884](https://github.com/user-attachments/assets/c83c122d-7b3c-43aa-af5e-0c75fba0fa18)) | ![Details](IMAGE_LINK_2) | ![Cart](IMAGE_LINK_3) |
+|(![WhatsApp Image 2025-02-11 at 19 28 19_35c38884](https://github.com/user-attachments/assets/c83c122d-7b3c-43aa-af5e-0c75fba0fa18)) ![WhatsApp Image 2025-02-11 at 19 28 38_de61e40d](https://github.com/user-attachments/assets/6ef1d41b-4b72-4771-8d73-751e68d858fd)
+| ![Details](IMAGE_LINK_2) | ![Cart](IMAGE_LINK_3) |
 
 ## 💡 Technologies Used
 - **Flutter** (Dart)  
